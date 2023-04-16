@@ -12,7 +12,6 @@ public class day7 {
         double km = scan.nextInt();
         double price = 10 + (km * 2.20);
         if (price< 20) price =20;
-        
         System.out.println("Taksimetre = "+ price);
 
     }
