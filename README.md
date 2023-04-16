@@ -17,4 +17,5 @@ public class day7 {
         System.out.println("Taksimetre = "+ price);
 
     }
+    
 }
